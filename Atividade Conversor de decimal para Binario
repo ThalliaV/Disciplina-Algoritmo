@@ -1,0 +1,30 @@
+const readline = require('readline');
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+});
+
+// Função para converter um número decimal para binário
+function decimalParaBinario(decimal) {
+    if (decimal === 0) return 'é zero';
+    var binario = '';
+    while (decimal > 0) {
+        var resto = decimal % 2;
+        binario = resto + binario;
+        decimal = Math.floor(decimal / 2);
+    }
+    return binario;
+}
+
+// Pergunta ao usuário um número decimal
+rl.question("Digite o número decimal: ", function(decimal) {
+    decimal = parseInt(decimal); // converter para número inteiro
+    if (!isNaN(decimal)) {
+        var binario = decimalParaBinario(decimal);
+        console.log('O número binário é: ', binario);
+    } else {
+        console.log('Por favor, insira um número decimal válido.');
+    }
+    rl.close();
+});
