@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-04-15T00:47:31.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Hu_cmaX5odW2ODv51tyh" version="24.2.0" type="github">
+  <diagram id="Zz_hlxJ-zxO7tlQMwrIA" name="Página-2">
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-2" target="CMZ5K0kuRos7vVI4ukEP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-2" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-3" target="CMZ5K0kuRos7vVI4ukEP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-3" value="Estoque atual&lt;div&gt;100&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="105" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-4" target="CMZ5K0kuRos7vVI4ukEP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-4" target="CMZ5K0kuRos7vVI4ukEP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-4" target="CMZ5K0kuRos7vVI4ukEP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-4" target="CMZ5K0kuRos7vVI4ukEP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-4" value="Escolha uma das Opções" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-5" target="CMZ5K0kuRos7vVI4ukEP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-5" target="CMZ5K0kuRos7vVI4ukEP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-5" value="Adicionar produtos ao Estoque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-6" value="Vender Produto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-8" target="CMZ5K0kuRos7vVI4ukEP-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-8" value="Verificar Estoque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-9" target="CMZ5K0kuRos7vVI4ukEP-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-9" target="CMZ5K0kuRos7vVI4ukEP-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-9" value="Sair" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="516.25" width="95" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-18" value="Quantidade a ser adicionados no Estoque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="60" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-19" value="Estoque atual&lt;div&gt;+&lt;/div&gt;&lt;div&gt;Entrada do Produto&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468.75" y="60" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-20" target="CMZ5K0kuRos7vVI4ukEP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-20" value="Quantidade a ser vendido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="260" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526.25" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="526.25" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-38" value="É maior que o Estoque atual?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.25" y="235" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-44" value="Quantidade Insuficiente no Estoque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.25" y="145" width="107.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-54" value="Estoque atual&lt;div&gt;-&lt;/div&gt;&lt;div&gt;Saída do Produto&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-55" value="Venda realizada com sucesso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-57" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="757" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-58" value="Estoque atual é de X unidades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="410" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-61" value="Opção Inválida" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="522.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMZ5K0kuRos7vVI4ukEP-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-62" value="Encerrar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="580" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-90" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMZ5K0kuRos7vVI4ukEP-93" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
